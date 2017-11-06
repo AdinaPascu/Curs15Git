@@ -1,3 +1,4 @@
 test
 blablabla
 bla2
+var i = 3;
