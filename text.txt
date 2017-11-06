@@ -1,4 +1,4 @@
 test
 blablabla
 bla2
-var i = 5;
+var i = 4;
